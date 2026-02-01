@@ -160,8 +160,3 @@ If you believe technology should be as thoughtful as it is powerful — let’s 
 📧 <a href="mailto:ms.kanak.dharamthok@gmail.com">ms.kanak.dharamthok@gmail.com</a><br/>
 🔗 <a href="https://linkedin.com/in/kanak-dharamthok-8b6b8928b/">LinkedIn — Kanak Dharamthok</a>
 </p>
-
-<blockquote>
-“Technology is best when it brings people — and ideas — together.”  
-<br/><b>— Inspired by both art and engineering</b>
-</blockquote>
