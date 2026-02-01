@@ -1,10 +1,13 @@
-🚀 Kanak Dharamthok
+# 🚀 Kanak Dharamthok  
 
-AI/ML Enthusiast | AIML Undergraduate | Tech & Community Builder
-Building meaningful, user-centric AI solutions 💡 | Turning ideas into impactful systems ✨
+**AI/ML Enthusiast | AIML Undergraduate | Tech & Community Builder**  
+Building meaningful, user-centric AI solutions 💡 | Turning ideas into impactful systems ✨  
 
-👩‍💻 Who Am I?
+---
 
+## 👩‍💻 Who Am I?
+
+```python
 class Developer:
     def __init__(self):
         self.name = "Kanak Dharamthok"
@@ -36,60 +39,6 @@ class Developer:
         ]
 
 me = Developer()
-
-🧠 Project That Define My Journey
-🎓 Campus Mitra – Alumni & Student Engagement Platform
-
-EdTech | Web Platform | Firebase
-
-A centralized platform designed to bridge the gap between students, alumni, and institutions.
-
-🔹 Firebase-based authentication & database handling
-🔹 MVP development with structured system workflow
-🔹 Alumni–student mentorship, events & opportunities
-🔹 Complete project presentation (problem → solution → architecture)
-🔹 Strong focus on usability & collaboration
-
-💼 Tech Stack
-🖥️ Languages
-
-Python | C++ | SQL
-
-🤖 AI / ML
-
-Machine Learning | Data Preprocessing | Model Evaluation | NLP Basics
-
-☁️ Cloud & Dev Tools
-
-GitHub | Firebase | Google Cloud Platform | Jupyter
-
-🏆 Achievements & Leadership
-
-🏅 Google Cloud Arcade Facilitator – Ultimate Milestone
-🏆 Awarded for contribution in “Crack SIH with GDGoC-GHRCE”
-🌍 Core team member & volunteer in 5+ large-scale tech events
-🎯 Management Co-Lead – GDGoC GHRCE
-📘 Contributor to documentation, coordination & tech execution
-
-📜 Certifications & Learning
-AI & Machine Learning
-
-✔ Microsoft Azure AI Fundamentals
-✔ Generative AI & Responsible AI
-✔ Machine Learning & AI Concepts
-
-Startup & Product Innovation
-
-✔ Startup Fundamentals
-✔ Fundraising & Branding
-✔ Product Validation & Pitching
-
-🔗 Microsoft Learn Profile
-🔗 Google Cloud Skill Boost Profile
-
-📈 GitHub Stats
-
-(Add GitHub stats card here if you want — I can generate the exact markdown)
 
 ⚡ Let’s Collaborate
 
