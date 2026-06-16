@@ -82,6 +82,32 @@ Campus Mitra is a thoughtfully designed platform aimed at strengthening the
   <img src="https://img.shields.io/badge/Web_Platform-4285F4?style=flat"/>
 </p>
 
+
+## 🧠 Projects — My Digital Canvas
+
+### 🤖 Interactive AI Chatbot with Persistent Session Management
+
+**Domain:** Artificial Intelligence & Natural Language Processing (AI & NLP) | Full-Stack Web Development
+
+An interactive, full-stack conversational agent engineered to deliver seamless, real-time multi-turn dialogues with persistent context tracking.
+
+<ul>
+  <li>Designed and architected a responsive web-based conversational interface utilizing Python and the Streamlit framework</li>
+  <li>Handled stateful programming requirements via Streamlit's session states to enable seamless, human-like contextual responses across multiple turns</li>
+  <li>Implemented structural memory backend configurations to accurately maintain user conversation history</li>
+  <li>Hosted and deployed the application live via Streamlit Share to demonstrate robust cloud deployment competency</li>
+  <li>Documented and managed the repository using Git best practices, ensuring clean code architecture and setup protocols</li>
+</ul>
+
+**Project Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+🚀 **<a href="https://ai-chatbot-sig3e4aph79h4fuxbagid4.streamlit.app/" target="_blank">Live Demo</a>**
 <hr/>
 
 <h2>🧰 My Creative & Technical Toolkit</h2>
