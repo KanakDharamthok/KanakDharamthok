@@ -83,8 +83,6 @@ Campus Mitra is a thoughtfully designed platform aimed at strengthening the
 </p>
 
 
-## 🧠 Projects — My Digital Canvas
-
 ### 🤖 Interactive AI Chatbot with Persistent Session Management
 
 **Domain:** Artificial Intelligence & Natural Language Processing (AI & NLP) | Full-Stack Web Development
