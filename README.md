@@ -1,4 +1,4 @@
-<h1 align="center">🎨🚀 Kanak Dharamthok</h1>
+<h1 align="center">🎨 Kanak Dharamthok</h1>
 
 <p align="center">
   <b>AI/ML Enthusiast | AIML Undergraduate | Artist at Heart | Tech & Community Builder</b><br/>
