@@ -38,20 +38,20 @@ class Creator:
             "Project & Tech Coordinator"
         ]
         self.core_focus = [
-            "AI-powered Platforms",
-            "Data Preprocessing & Analysis",
-            "User-centric System Design",
-            "EdTech & Community-driven Solutions",
+            "AI-powered Platforms & RAG Architectures",
+            "Multilingual NLP & Speech-to-Text Pipelines",
+            "Secure Document Ingestion & Parsing",
+            "Local LLM Inference & Optimization",
             "Research & Technical Documentation"
         ]
         self.location = "Maharashtra, India"
         self.current_state = "Learning, experimenting, and refining my craft 🚧"
 
     def mediums(self):
-        return ["Python", "C++", "SQL"]
+        return ["Python", "C++", "SQL", "Pydantic", "NumPy"]
 
     def studio_tools(self):
-        return ["GitHub", "Firebase", "Google Cloud", "Jupyter"]
+        return ["FastAPI", "Streamlit", "OpenAI Whisper", "ChromaDB", "Ollama/Gemma", "GitHub", "Google Cloud"]
 
 me = Creator()
 </pre>
@@ -60,44 +60,46 @@ me = Creator()
 
 <h2>🧠 Projects — My Digital Canvas</h2>
 
-<h3>🎓 Campus Mitra — Alumni & Student Engagement Platform</h3>
-<p><b>Domain:</b> EdTech | Web Platform</p>
+<h3>⚖️ AI-Powered Legal Research & Drafting Assistant</h3>
+<p><b>Domain:</b> Artificial Intelligence & Machine Learning | LegalTech | Full-Stack AI Architecture (June 2026)</p>
 
 <p>
-Campus Mitra is a thoughtfully designed platform aimed at strengthening the 
-<b>student–alumni–institution ecosystem</b> through technology.
+An advanced, localized automation platform engineered to transform raw courtroom inputs into comprehensive, legally defensible bail applications through a robust multi-stage pipeline.
 </p>
 
 <ul>
-  <li>Designed and implemented Firebase-based authentication and data handling</li>
-  <li>Contributed to MVP development with clearly defined system workflows</li>
-  <li>Focused on mentorship, events, and opportunity discovery</li>
-  <li>Created comprehensive project documentation and presentations</li>
+  <li>Developed a 5-stage sequential wizard syncing a Streamlit frontend with a local FastAPI backend to streamline bail application workflows.</li>
+  <li>Built a Whisper-powered ASR framework with CUDA acceleration, chunk-based streaming, and an NLLB translation layer to normalize regional code-switching (Hindi/Marathi) into standardized English text.</li>
+  <li>Implemented a secure blind-ingestion dropzone to parse confidential PDFs while masking plaintext parameters for specific roles, accompanied by an LLM fallback route for fragmented notice board text.</li>
+  <li>Integrated a local ChromaDB vector store and a local Gemma LLM via Ollama to automatically cross-reference case facts against BNS/BNSS statutory frameworks and flag procedural timeline violations.</li>
 </ul>
 
 <p><b>Project Tech Stack:</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase"/>
-  <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/Web_Platform-4285F4?style=flat"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat"/>
+  <img src="https://img.shields.io/badge/ChromaDB-EE4C2C?style=flat"/>
+  <img src="https://img.shields.io/badge/Ollama-000?style=flat"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white"/>
 </p>
 
+<h3>🤖 Interactive AI Chatbot with Persistent Session Management</h3>
 
-### 🤖 Interactive AI Chatbot with Persistent Session Management
+<p><b>Domain:</b> Artificial Intelligence & Natural Language Processing (AI & NLP) | Full-Stack Web Development</p>
 
-**Domain:** Artificial Intelligence & Natural Language Processing (AI & NLP) | Full-Stack Web Development
-
-An interactive, full-stack conversational agent engineered to deliver seamless, real-time multi-turn dialogues with persistent context tracking.
+<p>An interactive, full-stack conversational agent engineered to deliver seamless, real-time multi-turn dialogues with persistent context tracking.</p>
 
 <ul>
-  <li>Designed and architected a responsive web-based conversational interface utilizing Python and the Streamlit framework</li>
-  <li>Handled stateful programming requirements via Streamlit's session states to enable seamless, human-like contextual responses across multiple turns</li>
-  <li>Implemented structural memory backend configurations to accurately maintain user conversation history</li>
-  <li>Hosted and deployed the application live via Streamlit Share to demonstrate robust cloud deployment competency</li>
-  <li>Documented and managed the repository using Git best practices, ensuring clean code architecture and setup protocols</li>
+  <li>Designed and architected a responsive web-based conversational interface utilizing Python and the Streamlit framework.</li>
+  <li>Handled stateful programming requirements via Streamlit's session states to enable seamless, human-like contextual responses across multiple turns.</li>
+  <li>Implemented structural memory backend configurations to accurately maintain user conversation history.</li>
+  <li>Hosted and deployed the application live via Streamlit Share to demonstrate robust cloud deployment competency.</li>
+  <li>Documented and managed the repository using Git best practices, ensuring clean code architecture and setup protocols.</li>
 </ul>
 
-**Project Tech Stack:**
+<p><b>Project Tech Stack:</b></p>
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
@@ -105,7 +107,8 @@ An interactive, full-stack conversational agent engineered to deliver seamless, 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-🚀 **<a href="https://ai-chatbot-sig3e4aph79h4fuxbagid4.streamlit.app/" target="_blank">Live Demo</a>**
+🚀 <b><a href="https://ai-chatbot-sig3e4aph79h4fuxbagid4.streamlit.app/" target="_blank">Live Demo</a></b>
+
 <hr/>
 
 <h2>🧰 My Creative & Technical Toolkit</h2>
@@ -117,11 +120,13 @@ An interactive, full-stack conversational agent engineered to deliver seamless, 
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql"/>
 </p>
 
-<h3>🤖 AI / ML</h3>
+<h3>🤖 AI / ML & Frameworks</h3>
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Preprocessing-008080?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP_Basics-7B68EE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG_%26_ChromaDB-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Whisper_%26_ASR-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Local_LLM_%28Ollama%2FGemma%29-222222?style=for-the-badge"/>
 </p>
 
 <h3>☁️ Cloud & Dev Tools</h3>
