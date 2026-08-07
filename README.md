@@ -85,6 +85,8 @@ An advanced, localized automation platform engineered to transform raw courtroom
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white"/>
 </p>
 
+🚀 <b><a href="https://kanakdharamthok.github.io/APLRDA-Portfolio/" target="_blank">Portfolio Link</a></b>
+
 <h3>🤖 Interactive AI Chatbot with Persistent Session Management</h3>
 
 <p><b>Domain:</b> Artificial Intelligence & Natural Language Processing (AI & NLP) | Full-Stack Web Development</p>
